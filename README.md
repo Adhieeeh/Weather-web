@@ -9,3 +9,5 @@ visit: (https://github.com/Adhieeeh/Weather-web.git)
 
 
 Preview:![](wehr.png)
+
+*shows weather of a certain city
